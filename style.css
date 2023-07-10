@@ -56,11 +56,13 @@
 
 div#chatButton {
     background-image: url(logo.webp)!important;
-    background-color: #efe2a2;
+    background-color: #efe2a2!important;
     background-size: 40px !important;
     border: 4px double #763e03;
     background-repeat: no-repeat;
     background-position: 11px;
+    width: 70px!important;
+    height: 70px!important;
 }
 
 
