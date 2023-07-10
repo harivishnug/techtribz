@@ -40,7 +40,7 @@ window.onload = (function () {
         chatButton.style.fontSize = '20px';
         chatButton.style.cursor = 'pointer';
         chatButton.style.zIndex = '2147483000';
-        chatButton.style.backgroundImage = 'url("logo.webp")';
+        chatButton.style.backgroundImage = 'url("https://chat4site.ai/icons/botIcon.png")';
         chatButton.style.backgroundSize = 'cover';
 
 
