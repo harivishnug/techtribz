@@ -53,6 +53,17 @@
   --cubic-out: cubic-bezier(0.33, 0.85, 0.4, 0.96);
 }
 
+
+div#chatButton {
+    background-image: url(logo.webp)!important;
+    background-color: #efe2a2;
+    background-size: 40px !important;
+    border: 4px double #763e03;
+    background-repeat: no-repeat;
+    background-position: 11px;
+}
+
+
 *,*::before,*::after {
   margin: 0;
   padding: 0;
